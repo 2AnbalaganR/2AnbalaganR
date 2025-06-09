@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2AnbalaganR
 - 👀 I’m interested in ui/ux design
-- 🌱 I’m currently learning froented development
+- 🌱 I’m currently learning fronted development
 - 💞️ I’m looking to collaborate on desinger
 - 📫 How to reach me 
   
